@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://transcendent-sopapillas-0ad4db.netlify.app/](https://transcendent-sopapillas-0ad4db.netlify.app/)
 
-- 📫 How to reach me **madusha.20200573@gmail.com**
+- 📫 How to reach me **madusha.20200573@iit.ac.lk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
